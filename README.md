@@ -1,9 +1,4 @@
-Perfecto 🙌, este script en **Google Apps Script** está enfocado en exportar datos de inquilinos desde una hoja de cálculo hacia tu API de Back-Bot.
-Te armé un `README.md` con documentación clara, profesional y con el sello de **Didi & Jaqui** 👩‍💻👇
 
----
-
-````markdown
 # 🏠 Back-Bot Sheets Exporter  
 
 > Script en **Google Apps Script** para exportar inquilinos desde Google Sheets hacia la API de Back-Bot, con soporte para encabezados en español e inglés, validaciones, backups y logs.  
